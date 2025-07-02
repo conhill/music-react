@@ -1,15 +1,32 @@
 {
-  "name": "music-react",
+  "name": "is-it-a-banger",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "AI-powered music classifier that determines if your tracks are bangers",
+  "main": "src/main.jsx",
   "scripts": {
     "dev": "vite",
-    "build": "vite build"
+    "build": "vite build",
+    "preview": "vite preview"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "music",
+    "ai",
+    "classification",
+    "react",
+    "audio",
+    "machine-learning",
+    "vite"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/is-it-a-banger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/is-it-a-banger/issues"
+  },
+  "homepage": "https://github.com/yourusername/is-it-a-banger#readme",
   "dependencies": {
     "lucide-react": "^0.511.0",
     "react": "^19.1.0",
